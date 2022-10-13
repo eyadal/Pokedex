@@ -1,3 +1,9 @@
+# Search pokemon by write a number or a pokemon name in the searchbar and click the button to get the information about the pokemon.
+![pokedex](https://user-images.githubusercontent.com/31968847/195635636-b432724f-849b-4ccf-a51f-b3888bebc0b5.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
